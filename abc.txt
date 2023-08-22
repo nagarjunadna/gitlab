@@ -1,0 +1,11 @@
+iam learning gitlab,
+and jenkins,
+docker,
+kubernates,
+aws,
+ansible
+python, and linux commands
+
+
+
+
